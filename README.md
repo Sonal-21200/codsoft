@@ -1,2 +1,2 @@
 # codsoft
-# Repository to store my projects of the python internship with CODSOFT
+Repository to store my projects of the python internship with CODSOFT
